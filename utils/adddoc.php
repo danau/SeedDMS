@@ -17,8 +17,7 @@ function usage() { /* {{{ */
 	echo "  -C <comment>: set comment for version\n";
 	echo "  -k <keywords>: set keywords for file\n";
 	echo "  -K <categories>: set categories for file\n";
-	echo "  -s <number>: set sequence for file (used for ordering files within a folder\n";
-	echo "  -n <name>: set name of file\n";
+	echo "  -s <number>: set sequence for file (used for ordering files within a folder)\n";
 	echo "  -V <version>: set version of file (defaults to 1).\n";
 	echo "  -f <filename>: upload this file\n";
 	echo "  -s <sequence>: set sequence of file\n";
